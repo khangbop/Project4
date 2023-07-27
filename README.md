@@ -2,13 +2,13 @@
 
 World University Rankings Analysis
 
-Giới thiệu.
+1. Giới thiệu.
 
-Đọc dữ liệu. (Python)
+2. Đọc dữ liệu. (Python)
 
-Làm sạch/Xử lý dữ liệu. (Python)
+3. Làm sạch/Xử lý dữ liệu. (Python)
 
-Phân tích (SQL/Power BI):
+4. Phân tích (SQL/Power BI):
 
 Nhìn chung 3 dataset này đều thống kê xếp hạng của tất cả các trường trên thế giới.
 Điểm khác biệt giữa 3 data set là do các quốc giá khác nhau thống kê
