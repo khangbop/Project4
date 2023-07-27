@@ -15,7 +15,7 @@ World University Rankings Analysis
 	- cwurData.csv (Central for World Universitiy Rankings) do nước Saudi Arabia thực hiện được thành lập từ 2012. (http://cwur.org/) 
 	- timesData.csv (Times Higher Education World University Ranking) do Vương quốc Anh thành lập năm 2010. (https://www.timeshighereducation.com/world-university-rankings)
 	- shanghaiData.csv (Academic Ranking of World Universities) do Trung Quốc sáng lập năm 2003. (http://www.shanghairanking.com/)
-    	- Câu hỏi đặt ra:
+  	- Câu hỏi đặt ra:
 		+ Nếu phải so sánh thì 3 bảng này khác và giống nhau như thế nào?
    		+ Những lời chỉ trích khác nhau đánh vào các bảng xếp hạng này có công bằng hay không?
 		+ Làm thế nào để trường cũ của bạn chống lại thế giới? (https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?datasetId=27&sortBy=voteCount).
