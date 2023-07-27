@@ -29,12 +29,20 @@ World University Rankings Analysis
 	b. Đối với dataset của Trung Quốc (ARWU): shanghaiData.csv
 	- Dataset này bao gồm (2002-2015):
 		+ Tổng điểm.
-   		+ Cựu sinh viên của trường đạt giải Nobel và huy chương Fields (alumni).
-   		+ Nhân viên trường đạt giải Nobel và huy chương Fields (awards).
-   		+ Các nhà nghiên cứu được trích dẫn cao (hici).
-   		+ Số lượng bài báo về khoa học tự nhiên (ns).
-   		+ Số lượng bài báo được lập chỉ mục trong Trích dẫn Khoa học Xã hội-Mở rộng và Chỉ mục Trích dẫn Khoa học (pub).
- 		+ Kết quả học tập bình quân đầu người của một tổ chức (pcp).
+  + Cựu sinh viên của trường đạt giải Nobel và huy chương Fields (alumni).
+  + Nhân viên trường đạt giải Nobel và huy chương Fields (awards).
+  + Các nhà nghiên cứu được trích dẫn cao (hici).
+  + Số lượng bài báo về khoa học tự nhiên (ns).
+  + Số lượng bài báo được lập chỉ mục trong Trích dẫn Khoa học Xã hội-Mở rộng và Chỉ mục Trích dẫn Khoa học (pub).
+  + Kết quả học tập bình quân đầu người của một tổ chức (pcp).
+ - 
+		
+   		+ 
+   		+ 
+   		+ 
+   		+ 
+   		+ 
+ 		+ 
 	- Bắt đầu ta cũng tìm top 10 trường Đại học tốt nhất thế giới so sánh vs nhau dựa trên cái chỉ số trên.
 	- Tiếp theo so sánh xếp hạng dựa theo quốc gia.
 	- Kết luận.
