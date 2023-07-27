@@ -45,12 +45,12 @@ Kết luận.
 
 Đối với dataset của Vương Quốc Anh (THE): timesData.csv
 Các chỉ số của Dataset:
-Teaching (teaching/the learning environment)
-International Outlook (international/staff, students and research)
-Research (research/volume, income and reputation)
-Citations (citations/research influence)
-Industry Income (income/knowledge transfer, value not available for all)
-Overall (total_score).
+- Teaching (teaching/the learning environment)
+- International Outlook (international/staff, students and research)
+- Research (research/volume, income and reputation)
+- Citations (citations/research influence)
+- Industry Income (income/knowledge transfer, value not available for all)
+- Overall (total_score).
 Dựa theo cách xếp hạng của website (https://www.timeshighereducation.com/news/ranking-methodology-2016) 
 Teaching: 30%
 International Outlook 7.5%
