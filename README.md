@@ -76,9 +76,3 @@ Tổng kết rút ra được những gì.
 Chú thích.
 
 THE END
-2 cái dataset dự phòng nếu cái này easy quá: 1 cái Healthcare (Easy)
-(https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii)  
-vs 1 cái chỉ số Ngân hàng thế giới của 5 nước (Hard) (https://www.kaggle.com/datasets/docstein/brics-world-bank-indicators?select=BRICS+Development+Indicators) .
-
-
-
