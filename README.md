@@ -10,16 +10,18 @@ Làm sạch/Xử lý dữ liệu. (Python)
 
 Phân tích (SQL/Power BI):
 
-	- Nhìn chung 3 dataset này đều thống kê xếp hạng của tất cả các trường trên thế giới.
-	- Điểm khác biệt giữa 3 data set là do các quốc giá khác nhau thống kê
+Nhìn chung 3 dataset này đều thống kê xếp hạng của tất cả các trường trên thế giới.
+Điểm khác biệt giữa 3 data set là do các quốc giá khác nhau thống kê
  
-    cwurData.csv (Central for World Universitiy Rankings) do nước Saudi Arabia thực hiện được thành lập từ 2012. (http://cwur.org/) 
-    timesData.csv (Times Higher Education World University Ranking) do Vương quốc Anh thành lập năm 2010. (https://www.timeshighereducation.com/world-university-rankings)
-    shanghaiData.csv (Academic Ranking of World Universities) do Trung Quốc sáng lập năm 2003. (http://www.shanghairanking.com/)
+	- cwurData.csv (Central for World Universitiy Rankings) do nước Saudi Arabia thực hiện được thành lập từ 2012. (http://cwur.org/) 
+	- timesData.csv (Times Higher Education World University Ranking) do Vương quốc Anh thành lập năm 2010. (https://www.timeshighereducation.com/world-university-rankings)
+	- shanghaiData.csv (Academic Ranking of World Universities) do Trung Quốc sáng lập năm 2003. (http://www.shanghairanking.com/)
+    
 Câu hỏi đặt ra:
-  Nếu phải so sánh thì 3 bảng này khác và giống nhau như thế nào?
-  Những lời chỉ trích khác nhau đánh vào các bảng xếp hạng này có công bằng hay không?
-  Làm thế nào để trường cũ của bạn chống lại thế giới?
+
+  - Nếu phải so sánh thì 3 bảng này khác và giống nhau như thế nào?
+  - Những lời chỉ trích khác nhau đánh vào các bảng xếp hạng này có công bằng hay không?
+  - Làm thế nào để trường cũ của bạn chống lại thế giới?
   (https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?datasetId=27&sortBy=voteCount). 
     Đối với dataset đầu của Ả rập Saudi (CWUR): cwurData.csv
     Đầu tiên ta sẽ xem Top 5 trường Đại Học tốt nhất thế giới từ 2012-2015
