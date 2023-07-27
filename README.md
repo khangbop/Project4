@@ -9,8 +9,8 @@ Giới thiệu.
 Làm sạch/Xử lý dữ liệu. (Python)
 
 Phân tích (SQL/Power BI):
-	Nhìn chung 3 dataset này đều thống kê xếp hạng của tất cả các trường trên thế giới.
-	Điểm khác biệt giữa 3 data set là do các quốc giá khác nhau thống kê
+	- Nhìn chung 3 dataset này đều thống kê xếp hạng của tất cả các trường trên thế giới.
+	- Điểm khác biệt giữa 3 data set là do các quốc giá khác nhau thống kê
     cwurData.csv (Central for World Universitiy Rankings) do nước Saudi Arabia thực hiện được thành lập từ 2012. (http://cwur.org/) 
     timesData.csv (Times Higher Education World University Ranking) do Vương quốc Anh thành lập năm 2010. (https://www.timeshighereducation.com/world-university-rankings)
     shanghaiData.csv (Academic Ranking of World Universities) do Trung Quốc sáng lập năm 2003. (http://www.shanghairanking.com/)
