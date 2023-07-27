@@ -20,11 +20,11 @@ World University Rankings Analysis
    		+ Những lời chỉ trích khác nhau đánh vào các bảng xếp hạng này có công bằng hay không?
 		+ Làm thế nào để trường cũ của bạn chống lại thế giới? (https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?datasetId=27&sortBy=voteCount).
 
-Đối với dataset đầu của Ả rập Saudi (CWUR): cwurData.csv
-Đầu tiên ta sẽ xem Top 5 trường Đại Học tốt nhất thế giới từ 2012-2015
-Tiếp theo đi sâu hơn vào từng năm.
-Ta cũng sẽ tìm hiểu dựa số lượng trường Đại học theo quốc gia. Chúng ta cũng sẽ xem xét chất lượng giáo dục, việc làm của cựu sinh viên và chất lượng của các cấp bậc giảng       viên.
-Kết luận.
+	a. Đối với dataset đầu của Ả rập Saudi (CWUR): cwurData.csv
+	- Đầu tiên ta sẽ xem Top 5 trường Đại Học tốt nhất thế giới từ 2012-2015
+	- Tiếp theo đi sâu hơn vào từng năm.
+	- Ta cũng sẽ tìm hiểu dựa số lượng trường Đại học theo quốc gia. Chúng ta cũng sẽ xem xét chất lượng giáo dục, việc làm của cựu sinh viên và chất lượng của các cấp bậc giảng viên.
+  	- Kết luận.
     
 Đối với dataset của Trung Quốc (ARWU): shanghaiData.csv
 Dataset này bao gồm (2002-2015):
