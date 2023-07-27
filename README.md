@@ -35,9 +35,10 @@ World University Rankings Analysis
   + 		Số lượng bài báo về khoa học tự nhiên (ns).
   + 		Số lượng bài báo được lập chỉ mục trong Trích dẫn Khoa học Xã hội-Mở rộng và Chỉ mục Trích dẫn Khoa học (pub).
   + 		Kết quả học tập bình quân đầu người của một tổ chức (pcp).
-	- Bắt đầu ta cũng tìm top 10 trường Đại học tốt nhất thế giới so sánh vs nhau dựa trên cái chỉ số trên.
-	- Tiếp theo so sánh xếp hạng dựa theo quốc gia.
-	- Kết luận.
+	
+ - Bắt đầu ta cũng tìm top 10 trường Đại học tốt nhất thế giới so sánh vs nhau dựa trên cái chỉ số trên.
+ - Tiếp theo so sánh xếp hạng dựa theo quốc gia.
+ - Kết luận.
 
 Đối với dataset của Vương Quốc Anh (THE): timesData.csv
 Các chỉ số của Dataset:
