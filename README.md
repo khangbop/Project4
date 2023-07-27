@@ -38,12 +38,7 @@ World University Rankings Analysis
  	- Bắt đầu ta cũng tìm top 10 trường Đại học tốt nhất thế giới so sánh vs nhau dựa trên cái chỉ số trên.
  	- Tiếp theo so sánh xếp hạng dựa theo quốc gia.
  	- Kết luận.
-
-	- 
-	- 
-	- 
-
-Đối với dataset của Vương Quốc Anh (THE): timesData.csv
+	c. Đối với dataset của Vương Quốc Anh (THE): timesData.csv
 Các chỉ số của Dataset:
 - Teaching (teaching/the learning environment)
 - International Outlook (international/staff, students and research)
