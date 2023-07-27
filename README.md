@@ -51,18 +51,20 @@ Các chỉ số của Dataset:
 - Citations (citations/research influence)
 - Industry Income (income/knowledge transfer, value not available for all)
 - Overall (total_score).
+
 Dựa theo cách xếp hạng của website (https://www.timeshighereducation.com/news/ranking-methodology-2016) 
 Teaching: 30%
 International Outlook 7.5%
 Research: 30%
 Citations: 30%
 Industry Income: 2.5%
+
 Trước hết ta cũng tìm top các trường Đại học hay nhất theo từng năm.
 Top xếp hạng theo quốc gia.
 Ngoài những chỉ số trên thì bảng xếp hạng này còn bao gồm những chỉ số thêm (Số lượng sv, tỉ lệ % giữa sv và nv, tỉ lệ % giữa nam nữ, % số lượng du học sinh) - > dùng những chỉ số này để đối chiếu với top trường Đại học xem có ảnh hưởng ko.
 Phần này mình tính để dành để so sánh các trường Đại học Việt Nam so với các trường Đại học trên thế giới (Lấy dữ liệu từ 3 bảng trên so sánh).
 Nhưng RIP nước mình tận năm 2019-2020 mới lên bảng, mà lên tận top 1000 - 2000 cơ.
-Cào dữ liệu những năm này cũng được nhưng phức tạp quá nên thôi.
+
 Mục này mình dành cho 2 dataset cuối:
 Educational_attainment_supplementary_data.csv. (Trình độ học vấn)
 Dataset 1st lấy từ Viện Thống kê UNESCO và Bộ dữ liệu của Barro-Lee .Trình độ giáo dục quốc gia liên quan như thế nào đến chất lượng của các trường đại học của mỗi quốc gia?
