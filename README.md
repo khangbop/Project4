@@ -30,18 +30,19 @@ Tiếp theo đi sâu hơn vào từng năm.
 Ta cũng sẽ tìm hiểu dựa số lượng trường Đại học theo quốc gia. Chúng ta cũng sẽ xem xét chất lượng giáo dục, việc làm của cựu sinh viên và chất lượng của các cấp bậc giảng       viên.
 Kết luận.
     
-    Đối với dataset của Trung Quốc (ARWU): shanghaiData.csv
-    Dataset này bao gồm (2002-2015):
-    Tổng điểm.
-Cựu sinh viên của trường đạt giải Nobel và huy chương Fields (alumni).
-Nhân viên trường đạt giải Nobel và huy chương Fields (awards).
-Các nhà nghiên cứu được trích dẫn cao (hici).
-Số lượng bài báo về khoa học tự nhiên (ns).
-Số lượng bài báo được lập chỉ mục trong Trích dẫn Khoa học Xã hội-Mở rộng và Chỉ mục Trích dẫn Khoa học (pub).
-Kết quả học tập bình quân đầu người của một tổ chức (pcp).
+Đối với dataset của Trung Quốc (ARWU): shanghaiData.csv
+Dataset này bao gồm (2002-2015):
+- Tổng điểm.
+- Cựu sinh viên của trường đạt giải Nobel và huy chương Fields (alumni).
+- Nhân viên trường đạt giải Nobel và huy chương Fields (awards).
+- Các nhà nghiên cứu được trích dẫn cao (hici).
+- Số lượng bài báo về khoa học tự nhiên (ns).
+- Số lượng bài báo được lập chỉ mục trong Trích dẫn Khoa học Xã hội-Mở rộng và Chỉ mục Trích dẫn Khoa học (pub).
+- Kết quả học tập bình quân đầu người của một tổ chức (pcp).
 Bắt đầu ta cũng tìm top 10 trường Đại học tốt nhất thế giới so sánh vs nhau dựa trên cái chỉ số trên.
 Tiếp theo so sánh xếp hạng dựa theo quốc gia.
 Kết luận.
+
 Đối với dataset của Vương Quốc Anh (THE): timesData.csv
 Các chỉ số của Dataset:
 Teaching (teaching/the learning environment)
